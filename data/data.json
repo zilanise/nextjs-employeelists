@@ -1,0 +1,10 @@
+{
+  "employees" : [
+    {"id": 1, "name": "Sporting Goods", "designation": "Software Specialist", "email": "email@sslwireless.com", "contact": "123456789"},
+    {"id": 2, "name": "Sporting Goods", "designation": "Jr. Software Specialist", "email": "email@sslwireless.com", "contact": "123456789"},
+    {"id": 3, "name": "Sporting Goods", "designation": "Software SpecialistSoftware Specialist", "email": "email@sslwireless.com", "contact": "123456789"},
+    {"id": 4, "name": "Electronics", "designation": "Jr. Software Specialist", "email": "email@sslwireless.com", "contact": "123456789"},
+    {"id": 5, "name": "Electronics", "designation": "Software Specialist", "email": "email@sslwireless.com", "contact": "123456789"},
+    {"id": 9, "name": "Electronics", "designation": "Jr. Software Specialist", "email": "email@sslwireless.com", "contact": "123456789"}
+  ]
+}
